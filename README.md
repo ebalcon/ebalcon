@@ -29,7 +29,7 @@
 
 
 [website]: https://www.ebalcon.fr
-[linkedin]: https://www.linkedin.com/in/emeric-balcon-0456a7203/
+[linkedin]: https://www.linkedin.com/in/ebalcon/
 
 <!---
 ebalcon/ebalcon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
